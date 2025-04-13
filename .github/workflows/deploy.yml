@@ -1,0 +1,44 @@
+name: Publish to GH Pages
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.125.7"
+          extended: true
+
+      - name: Build
+        run: hugo
+
+      - name: Checkout destination
+        uses: actions/checkout@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          ref: gh-pages
+          path: built-site
+
+      - name: Deploy
+        if: github.ref == 'refs/heads/main'
+        run: |
+          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
+          cd ${GITHUB_WORKSPACE}/built-site
+          git config user.name 'Debap88'
+          git config user.email 'db.nits@gmail.com'
+          git add .
+          git commit -m 'Updated site' || echo "No changes to commit"
+          git push
