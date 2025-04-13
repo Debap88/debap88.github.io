@@ -4,6 +4,11 @@
     <title>Tags on My New Hugo Site</title>
     <link>http://localhost:1313/debapriya/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
+    <image>
+      <title>My New Hugo Site</title>
+      <url>http://localhost:1313/debapriya/images/profile.jpg</url>
+      <link>http://localhost:1313/debapriya/images/profile.jpg</link>
+    </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/debapriya/tags/index.xml" rel="self" type="application/rss+xml" />

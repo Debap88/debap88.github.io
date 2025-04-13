@@ -2,16 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/debapriya/docs/</loc>
-    <lastmod>2025-04-13T13:23:42+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/debapriya/docs/test/</loc>
-    <lastmod>2025-04-13T13:23:42+05:30</lastmod>
+    <loc>http://localhost:1313/debapriya/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/debapriya/</loc>
-    <lastmod>2025-04-13T13:23:42+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/debapriya/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/debapriya/tags/</loc>
   </url>

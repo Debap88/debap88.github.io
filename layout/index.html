@@ -1,0 +1,8 @@
+{{ define "main" }}
+  <div class="custom-hero">
+    <h1>{{ .Site.Params.name }}</h1>
+    <h2>{{ .Site.Params.bio }}</h2>
+    <p>{{ .Site.Params.description }}</p>
+    <p>Tags: {{ delimit .Site.Params.tags ", " }}</p>
+  </div>
+{{ end }}
