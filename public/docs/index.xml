@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docs on My New Hugo Site</title>
-    <link>http://localhost:1313/docs/</link>
+    <link>http://localhost:1313/debapriya.me/docs/</link>
     <description>Recent content in Docs on My New Hugo Site</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Apr 2025 13:23:42 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/debapriya.me/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/docs/test/</link>
+      <link>http://localhost:1313/debapriya.me/docs/test/</link>
       <pubDate>Sun, 13 Apr 2025 13:23:42 +0530</pubDate>
-      <guid>http://localhost:1313/docs/test/</guid>
-      <description>&lt;h3 id=&#34;hey-deb-congratulations-on-your-first-website&#34;&gt;Hey Deb Congratulations on your first website&lt;/h3&gt;
-&lt;p&gt;This is your personal website&lt;/p&gt;</description>
+      <guid>http://localhost:1313/debapriya.me/docs/test/</guid>
+      <description>&lt;h3 id=&#34;hey-deb-congratulations&#34;&gt;Hey Deb congratulations&lt;/h3&gt;</description>
     </item>
   </channel>
 </rss>
