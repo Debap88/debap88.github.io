@@ -111,13 +111,13 @@ buildExpired = false
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    url = "/debapriya"
+    url = "/"
     weight = 10
 
   [[menu.main]]
     identifier = "musings"
     name = "Musings"
-    url = "/debapriya/blog"
+    url = "/blog"
     weight = 20
 
 [markup]
