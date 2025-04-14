@@ -20,4 +20,4 @@ Here’s the diagram of my blogpost repository, which I'm using for this post:
 
 _Happy Learning!_ 🎉
 
-![My blog repo diagram](/images/blog_repo.png)
+![My blog repo diagram](/debapriya/images/blog_repo.png)
