@@ -4,6 +4,9 @@ title = "My New Hugo Site"
 theme = "PaperMod"
 pagination.pagerSize = 5
 
+canonifyURLs = true
+relativeURLs = false
+
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -18,7 +21,6 @@ buildExpired = false
   title = "ExampleSite"
   description = "ExampleSite description"
   keywords = ["Blog", "Portfolio", "PaperMod"]
-  author = "Me"
   images = ["images/profile.jpg"]
   DateFormat = "January 2, 2006"
   defaultTheme = "auto"
@@ -44,14 +46,17 @@ buildExpired = false
     text = "Home"
     icon = "/apple-touch-icon.png"
     iconHeight = 35
+  
+  [params.assets]
+     css = ["css/custom.css"]
 
   [params.profileMode]
    enabled = true
    title = "Debapriya Biswas"
    subtitle = "Engineering Manager | Builder | Curious Human"
    imageUrl = "images/profile.jpg"
-   imageWidth = 120
-   imageHeight = 120
+   imageWidth = 160
+   imageHeight = 160
    imageTitle = "My Profile Picture"
 
   [[params.profileMode.buttons]]
@@ -92,11 +97,6 @@ buildExpired = false
     hiddenInList = true
     hiddenInSingle = true
 
-  [params.editPost]
-    URL = "https://github.com/<path_to_repo>/content"
-    Text = "Suggest Changes"
-    appendFilePath = true
-
   [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true
@@ -111,13 +111,13 @@ buildExpired = false
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    url = "/"
+    url = "/debapriya"
     weight = 10
 
   [[menu.main]]
     identifier = "musings"
     name = "Musings"
-    url = "/blog"
+    url = "/debapriya/blog"
     weight = 20
 
 [markup]

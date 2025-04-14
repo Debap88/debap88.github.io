@@ -1,0 +1,7 @@
+.post-content a {
+  color: blue;
+}
+
+.post-content a:hover {
+  color: darkblue;
+}
