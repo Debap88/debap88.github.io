@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on My New Hugo Site</title>
+    <link>https://debap88.github.io/debapriya/blog/</link>
+    <description>Recent content in Blogs on My New Hugo Site</description>
+    <image>
+      <title>My New Hugo Site</title>
+      <url>https://debap88.github.io/debapriya/images/profile.jpg</url>
+      <link>https://debap88.github.io/debapriya/images/profile.jpg</link>
+    </image>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://debap88.github.io/debapriya/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazing Open Source Tool</title>
+      <link>https://debap88.github.io/debapriya/blog/amazing-tools/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://debap88.github.io/debapriya/blog/amazing-tools/</guid>
+      <description>Cool cool</description>
+    </item>
+  </channel>
+</rss>
