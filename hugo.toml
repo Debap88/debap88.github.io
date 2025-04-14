@@ -4,9 +4,6 @@ title = "My New Hugo Site"
 theme = "PaperMod"
 pagination.pagerSize = 5
 
-canonifyURLs = true
-relativeURLs = false
-
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
