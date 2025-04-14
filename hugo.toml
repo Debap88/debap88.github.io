@@ -1,6 +1,6 @@
 baseURL = "https://debap88.github.io/debapriya/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = ""
 theme = "PaperMod"
 pagination.pagerSize = 5
 
@@ -39,11 +39,6 @@ buildExpired = false
   showtoc = false
   tocopen = false
 
-  [params.label]
-    text = "Home"
-    icon = "/apple-touch-icon.png"
-    iconHeight = 35
-  
   [params.assets]
      css = ["css/custom.css"]
 
