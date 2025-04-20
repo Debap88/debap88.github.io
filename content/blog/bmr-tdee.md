@@ -1,26 +1,34 @@
-# Tracking Your Fitness Journey with BMR & TDEE
+---
+date: "2025-04-20"
+title: "Track Your BMR & TDEE"
+tags: [fitness, health]
+author: debapriya
+description: "Tracking Your Fitness Journey with BMR & TDEE"
+---
 
-Off late, I’ve been reading the book **"Lose Fat & Get Fitter"** by **Jitendra Chouksey**, and there’s a particular framework in it that really stood out to me. It simplifies how to track your fitness journey by focusing on two core concepts: **BMR** and **TDEE**.
+## 🚀 **Track Your Fitness Journey with BMR & TDEE**
+
+Lately, I’ve been reading the book **"Lose Fat & Get Fitter"** by **Jitendra Chouksey**, and there's a particular framework that truly stood out. It simplifies how to track your fitness journey by focusing on two key concepts: **BMR** and **TDEE**.
 
 ---
 
-## 🧠 What is BMR?
+### 🧠 **What is BMR (Basal Metabolic Rate)?**
 
-**BMR (Basal Metabolic Rate)** is the number of calories your body needs just to survive — like if you stayed in bed all day, not moving at all. These are the calories used for basic functions like breathing, circulating blood, and cell repair.
+**BMR** is the number of calories your body needs to perform basic functions, like breathing, circulating blood, and cell repair, while at rest. These are the calories you burn if you stayed in bed all day without moving.
 
 ---
 
-## 🧮 Calculating BMR: The Harris-Benedict Formula
+### 🧮 **How to Calculate BMR: The Harris-Benedict Formula**
 
-To track your BMR, we’ll use the **Harris-Benedict formula**:
+We’ll use the **Harris-Benedict formula** to calculate your **BMR**. Here’s how it works:
 
-### For Women:
+#### For Women:
 
 ```
 BMR = 655 + (9.6 × weight in kg) + (1.8 × height in cm) − (4.7 × age)
 ```
 
-### For Men:
+#### For Men:
 
 ```
 BMR = 66 + (13.7 × weight in kg) + (5 × height in cm) − (6.8 × age)
@@ -28,16 +36,11 @@ BMR = 66 + (13.7 × weight in kg) + (5 × height in cm) − (6.8 × age)
 
 ---
 
-## 🔥 What is TDEE?
+## 🔥 **What is TDEE (Total Daily Energy Expenditure)?**
 
-**TDEE (Total Daily Energy Expenditure)** is the total number of calories your body burns in a day, including:
+**TDEE** represents the total number of calories your body burns in a day. It includes your **BMR**, physical activity, digestion, and any other energy your body uses throughout the day.
 
-- Your BMR
-- Physical activity
-- Digestion
-- Any other energy your body uses throughout the day
-
-Once you know your **BMR**, you can calculate your **TDEE** by multiplying your BMR by an **Activity Multiplier**:
+To calculate your **TDEE**, multiply your **BMR** by an **Activity Multiplier**:
 
 ```
 TDEE = BMR × Activity Multiplier
@@ -45,48 +48,50 @@ TDEE = BMR × Activity Multiplier
 
 ---
 
-## 📊 Activity Multiplier Table
+## 📊 **Activity Multiplier Table**
 
-To calculate your **TDEE**, multiply your BMR with the appropriate **Activity Factor** from the table below:
+Use the following **Activity Multiplier** table to calculate your **TDEE** based on your activity level:
 
-| Activity Level    | Description                           | Multiplier |
-| ----------------- | ------------------------------------- | ---------- |
-| Sedentary         | Little or no exercise                 | 1.2        |
-| Lightly active    | Light exercise/sports 1–3 days a week | 1.375      |
-| Moderately active | Moderate exercise 3–5 days a week     | 1.55       |
-| Very active       | Hard exercise 6–7 days a week         | 1.725      |
-| Super active      | Very hard exercise + physical job     | 1.9        |
+| **Activity Level**    | **Description**                       | **Multiplier** |
+| --------------------- | ------------------------------------- | -------------- |
+| **Sedentary**         | Little or no exercise                 | 1.2            |
+| **Lightly active**    | Light exercise/sports 1–3 days a week | 1.375          |
+| **Moderately active** | Moderate exercise 3–5 days a week     | 1.55           |
+| **Very active**       | Hard exercise 6–7 days a week         | 1.725          |
+| **Super active**      | Very hard exercise + physical job     | 1.9            |
 
 ---
 
-## 💡 Example: Calculating TDEE
+## 💡 **Example: Calculating Your TDEE**
 
-Let’s say your **BMR** is **1500 calories**, and you have a **sedentary lifestyle**. You get some exercise, but for the rest of the day, you're hacking away at your computer.
+Let's say your **BMR** is **1500 calories** and you have a **sedentary lifestyle**. Even though you do some exercise occasionally, most of your day involves sitting at your desk.
 
-In this case, your **Activity Multiplier** would be **1.2** (Sedentary lifestyle).
+Your **Activity Multiplier** will be **1.2** (for a Sedentary lifestyle).
 
-Now, you can calculate your **TDEE**:
+Now, calculate your **TDEE**:
 
 ```
 TDEE = 1500 × 1.2 = 1800 calories/day
 ```
 
-So, to maintain your current weight, you’d need to consume around **1800 calories per day**.
+To maintain your current weight, you would need to consume **around 1800 calories per day**.
 
 ---
 
-## 📏 Rule of Thumb
+## 📏 **Rule of Thumb for Caloric Intake**
 
-As you can see, if you exercise daily, your **TDEE** will be higher, which means you’ll need more calories to maintain your weight. Here's the rule of thumb:
+Depending on your goals, here's a simple rule of thumb for how to adjust your calorie intake:
 
-- **If you want to lose weight**: Consume calories **more than your BMR** but **less than your TDEE** (typically 10-20% less).
-- **If you want to build muscle**: Consume **a bit more than your TDEE** (but don’t overconsume, lol!).
-- **If you want to maintain weight**: Consume **equal to your TDEE**.
+- **Want to lose weight?** Consume **fewer calories than your TDEE** (typically 10–20% less).
+- **Want to build muscle?** Consume **slightly more than your TDEE** (but avoid overconsumption).
+- **Want to maintain weight?** Consume **equal to your TDEE**.
 
 ---
 
-## ⚠️ Warning: Never Consume Calories Below Your BMR!
+## ⚠️ **Important Warning: Never Consume Below Your BMR!**
 
-It's important to note that you should **never** consume calories below your **BMR**, as doing so can slow down your metabolism and cause other health issues.
+It’s essential that you **never** consume fewer calories than your **BMR**, as this can slow down your metabolism and lead to other health issues.
 
-🎉 Happy Fitness Journey!
+---
+
+🎉 **Happy Fitness Journey!** Keep tracking, stay consistent, and enjoy the progress!
